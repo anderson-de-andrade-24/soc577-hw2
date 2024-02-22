@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Credentials file
 creds.json
+
+# R Project
+.Rproj
